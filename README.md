@@ -1,4 +1,7 @@
 ### SportsModeling
 
-# Procrastinating from doing work over break
-## Starting with NBA and EPL &#127936; &#9917;
+NBA Basic Model      &#9989;
+
+NBA Optimized Model  &#9984;
+
+EPL Basic Model      &#9984;
